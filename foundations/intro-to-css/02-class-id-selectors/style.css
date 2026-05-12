@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.default {
+    background-color: #ff56b0fa;
+    font-family: Verdana, "DejaVu Sans", sans-serif;    
+}
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+ 
+#defaultsize{
+    font-size: 24px;
+}
+
+#id3 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
